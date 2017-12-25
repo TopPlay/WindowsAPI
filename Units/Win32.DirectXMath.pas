@@ -12,7 +12,7 @@ type
 // 3D Vector; 32 bit floating point components
 
 { TXMFLOAT3 }
-
+{$A16}
 TXMFLOAT3 = record
      x:single;
      y:single;
